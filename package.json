@@ -1,6 +1,6 @@
 {
   "name": "@financial-times/o-ft-affiliate-ribbon",
-  "version": "100.0.0-12",
+  "version": "100.0.0-13",
   "description": "A ribbon denoting affiliation with the FT. This ribbon should be used in products that are owned by the Financial Times but have a separate brand identity to the company.",
   "keywords": [],
   "homepage": "https://github.com/Financial-Times/o-ft-affiliate-ribbon#readme",
@@ -33,9 +33,9 @@
     "typescript": "^4.0.5"
   },
   "peerDependencies": {
-    "@financial-times/o-colors": "^100.0.0-12",
-    "@financial-times/o-grid": "^100.0.0-12",
-    "@financial-times/o-normalise": "^100.0.0-12"
+    "@financial-times/o-colors": "^100.0.0-13",
+    "@financial-times/o-grid": "^100.0.0-13",
+    "@financial-times/o-normalise": "^100.0.0-13"
   },
   "publishConfig": {
     "registry": "https://origami-npm-registry-prototype.herokuapp.com"
